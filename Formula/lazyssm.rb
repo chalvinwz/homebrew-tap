@@ -1,8 +1,8 @@
 class Lazyssm < Formula
   desc "Terminal UI for AWS SSM Session Manager"
   homepage "https://github.com/chalvinwz/lazyssm"
-  url "https://github.com/chalvinwz/lazyssm/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "ca24f3f7633555750811f02ecbc5f5bc8f7ccf3d502ffc87d97c0b5a3cb68f79"
+  url "https://github.com/chalvinwz/lazyssm/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "031db1df6d0c268153077790c41180a799877acac278a43e5568e56ac765efa1"
   license "MIT"
   head "https://github.com/chalvinwz/lazyssm.git", branch: "main"
 
